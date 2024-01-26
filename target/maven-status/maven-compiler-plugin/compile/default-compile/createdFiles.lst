@@ -1,0 +1,6 @@
+Pages\LoginPage.class
+Pages\Register.class
+Pages\HomePage.class
+Pages\SearchPage.class
+Utility\configProperty.class
+Utility\ElementUtil.class
